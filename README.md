@@ -21,7 +21,7 @@ I really like to learn new skills and languages.I am self motivated ,hard and sm
 - Python
 <h2> Certificates</h2>
 1.junior software developer certicate:
-<img src="D:\New folder\junior.jpg" alt="junior software developer">
+<img src="desktop\junior.jpg" alt="junior software developer">
 
 <h2> 🤳 Connect with me:</h2>
 
